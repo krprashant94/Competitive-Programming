@@ -32,5 +32,4 @@ def mergeSort(arr):
 
 if __name__ == '__main__':
 	a = [8, 3, 5, 0, 49, 20, 84, 2, 12, 54, 13, 51, 67, 89]
-	n = len(a)
 	print(mergeSort(a))
